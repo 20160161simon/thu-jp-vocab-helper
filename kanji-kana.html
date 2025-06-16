@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日语词汇测试卷</title>
+    <style>
+        body {
+            font-family: 'Microsoft YaHei', sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .test-container {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 20px;
+        }
+        
+        .header h1 {
+            color: #333;
+            margin: 0;
+            font-size: 2.2em;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+        }
+        
+        .section-title {
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            color: white;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+            font-weight: bold;
+            text-align: center;
+        }
+        
+        .question-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .question {
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            border: 2px solid #e0e6ff;
+            border-radius: 8px;
+            background: #f8faff;
+            transition: all 0.3s ease;
+        }
+        
+        .question:hover {
+            border-color: #667eea;
+            background: #f0f4ff;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+        }
+        
+        .question-number {
+            background: #667eea;
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9em;
+            font-weight: bold;
+            margin-right: 15px;
+            flex-shrink: 0;
+        }
+        
+        .question-text {
+            font-size: 1.1em;
+            color: #333;
+            flex: 1;
+        }
+        
+        .japanese {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .answer-line {
+            border-bottom: 2px solid #667eea;
+            min-width: 120px;
+            margin-left: 10px;
+            height: 20px;
+        }
+        
+        .answer {
+            color: #e74c3c;
+            font-weight: bold;
+            margin-left: 10px;
+            background: #ffeaa7;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.95em;
+        }
+        
+        .answer-pair {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 15px;
+            border: 1px solid #e0e6ff;
+            border-radius: 8px;
+            background: #f8faff;
+            margin-bottom: 8px;
+        }
+        
+        .answer-question {
+            font-size: 1.1em;
+            color: #2c3e50;
+            font-weight: bold;
+        }
+        
+        .answer-result {
+            color: #e74c3c;
+            font-size: 1.1em;
+            font-weight: bold;
+            background: #ffeaa7;
+            padding: 5px 12px;
+            border-radius: 15px;
+        }
+        
+        .instructions {
+            background: #e8f2ff;
+            border-left: 4px solid #667eea;
+            padding: 15px 20px;
+            margin-bottom: 25px;
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .instructions h3 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+        
+        .instructions p {
+            margin: 5px 0;
+            color: #555;
+        }
+        
+        .controls {
+            text-align: center;
+            margin: 30px 0;
+        }
+        
+        .btn {
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            color: white;
+            padding: 12px 25px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            margin: 0 10px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .file-input {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .file-input input[type="file"] {
+            display: none;
+        }
+        
+        .file-label {
+            background: #fff;
+            border: 2px dashed #667eea;
+            border-radius: 10px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: inline-block;
+            min-width: 200px;
+        }
+        
+        .file-label:hover {
+            background: #f0f4ff;
+            border-color: #5a67d8;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-container">
+        <div class="header">
+            <h1>日语词汇测试卷</h1>
+            <p>Japanese Vocabulary Test</p>
+        </div>
+        
+        <div class="file-input">
+            <label for="jsonFile" class="file-label">
+                <strong>📁 选择 json 文件</strong><br>
+                <small>点击这里上传您的词汇文件</small>
+            </label>
+            <input type="file" id="jsonFile" accept=".json" />
+        </div>
+        
+        <div class="controls">
+            <button class="btn" onclick="generateTest()">生成测试卷</button>
+            <button class="btn" onclick="showAnswers()" id="showAnswersBtn" style="display: none;">显示答案</button>
+            <button class="btn" onclick="hideAnswers()" id="hideAnswersBtn" style="display: none;">隐藏答案</button>
+            <button class="btn" onclick="printTest()">打印测试卷</button>
+            <button class="btn" onclick="printAnswers()" id="printAnswersBtn" style="display: none;">打印答案</button>
+        </div>
+        
+        <div id="testContent" style="display: none;">
+            <div class="instructions">
+                <h3>📋 试卷说明</h3>
+                <p><strong>第一部分：</strong>根据假名写出对应的汉字</p>
+                <p><strong>第二部分：</strong>根据汉字写出对应的假名读音</p>
+            </div>
+            
+            <div class="section">
+                <div class="section-title">第一部分：假名 → 汉字 (Kana → Kanji)</div>
+                <div id="kanaToKanjiQuestions"></div>
+            </div>
+            
+            <div class="section">
+                <div class="section-title">第二部分：汉字 → 假名 (Kanji → Kana)</div>
+                <div id="kanjiToKanaQuestions"></div>
+            </div>
+        </div>
+        
+        <div id="answerContent" style="display: none;">
+            <div class="test-container">
+                <div class="header">
+                    <h1>📝 测试答案</h1>
+                    <p>Test Answer Sheet</p>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">第一部分答案：假名 → 汉字</div>
+                    <div id="kanaToKanjiAnswers"></div>
+                </div>
+                
+                <div class="section">
+                    <div class="section-title">第二部分答案：汉字 → 假名</div>
+                    <div id="kanjiToKanaAnswers"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let vocabData = [];
+        let currentKanaToKanjiData = [];
+        let currentKanjiToKanaData = [];
+        
+        document.getElementById('jsonFile').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    try {
+                        const jsonData = JSON.parse(e.target.result);
+                        // 筛选出kanji不为空的词汇
+                        vocabData = jsonData.filter(item => item.kanji && item.kanji.trim() !== '');
+                        
+                        const label = document.querySelector('.file-label');
+                        label.innerHTML = `<strong>✅ 已加载 ${vocabData.length} 个词汇</strong><br><small>点击"生成测试卷"开始测试</small>`;
+                        label.style.borderColor = '#28a745';
+                        label.style.color = '#28a745';
+                    } catch (error) {
+                        alert('JSON文件格式错误，请检查文件格式');
+                        console.error('JSON解析错误:', error);
+                    }
+                };
+                reader.readAsText(file);
+            }
+        });
+        
+        function shuffleArray(array) {
+            const shuffled = [...array];
+            for (let i = shuffled.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+            }
+            return shuffled;
+        }
+        
+        function generateTest() {
+            if (vocabData.length === 0) {
+                alert('请先上传JSON文件');
+                return;
+            }
+            
+            // 打乱词汇顺序并保存当前测试数据
+            currentKanaToKanjiData = shuffleArray(vocabData);
+            currentKanjiToKanaData = shuffleArray(vocabData);
+            
+            // 生成第一部分：假名 → 汉字
+            const kanaToKanjiContainer = document.getElementById('kanaToKanjiQuestions');
+            let kanaHtml = '<div class="question-grid">';
+            
+            currentKanaToKanjiData.forEach((item, index) => {
+                kanaHtml += `
+                    <div class="question">
+                        <div class="question-number">${index + 1}</div>
+                        <div class="question-text">
+                            <span class="japanese">${item.kana}</span>
+                            <span class="answer-line"></span>
+                        </div>
+                    </div>
+                `;
+            });
+            kanaHtml += '</div>';
+            kanaToKanjiContainer.innerHTML = kanaHtml;
+            
+            // 生成第二部分：汉字 → 假名
+            const kanjiToKanaContainer = document.getElementById('kanjiToKanaQuestions');
+            let kanjiHtml = '<div class="question-grid">';
+            
+            currentKanjiToKanaData.forEach((item, index) => {
+                // 清理kanji字段中的注音
+                let cleanKanji = item.kanji.replace(/\([^)]*\)/g, '').trim();
+                
+                kanjiHtml += `
+                    <div class="question">
+                        <div class="question-number">${index + 1}</div>
+                        <div class="question-text">
+                            <span class="japanese">${cleanKanji}</span>
+                            <span class="answer-line"></span>
+                        </div>
+                    </div>
+                `;
+            });
+            kanjiHtml += '</div>';
+            kanjiToKanaContainer.innerHTML = kanjiHtml;
+            
+            // 显示测试内容和相关按钮
+            document.getElementById('testContent').style.display = 'block';
+            document.getElementById('showAnswersBtn').style.display = 'inline-block';
+            document.getElementById('printAnswersBtn').style.display = 'inline-block';
+            
+            // 隐藏答案内容
+            document.getElementById('answerContent').style.display = 'none';
+            document.getElementById('hideAnswersBtn').style.display = 'none';
+            
+            // 滚动到测试内容
+            document.getElementById('testContent').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function showAnswers() {
+            if (currentKanaToKanjiData.length === 0) {
+                alert('请先生成测试卷');
+                return;
+            }
+            
+            // 生成第一部分答案
+            const kanaToKanjiAnswers = document.getElementById('kanaToKanjiAnswers');
+            let kanaAnswerHtml = '';
+            
+            currentKanaToKanjiData.forEach((item, index) => {
+                let cleanKanji = item.kanji.replace(/\([^)]*\)/g, '').trim();
+                kanaAnswerHtml += `
+                    <div class="answer-pair">
+                        <div class="answer-question">${index + 1}. ${item.kana}</div>
+                        <div class="answer-result">${cleanKanji}</div>
+                    </div>
+                `;
+            });
+            kanaToKanjiAnswers.innerHTML = kanaAnswerHtml;
+            
+            // 生成第二部分答案
+            const kanjiToKanaAnswers = document.getElementById('kanjiToKanaAnswers');
+            let kanjiAnswerHtml = '';
+            
+            currentKanjiToKanaData.forEach((item, index) => {
+                let cleanKanji = item.kanji.replace(/\([^)]*\)/g, '').trim();
+                kanjiAnswerHtml += `
+                    <div class="answer-pair">
+                        <div class="answer-question">${index + 1}. ${cleanKanji}</div>
+                        <div class="answer-result">${item.kana}</div>
+                    </div>
+                `;
+            });
+            kanjiToKanaAnswers.innerHTML = kanjiAnswerHtml;
+            
+            // 显示答案
+            document.getElementById('answerContent').style.display = 'block';
+            document.getElementById('showAnswersBtn').style.display = 'none';
+            document.getElementById('hideAnswersBtn').style.display = 'inline-block';
+            
+            // 滚动到答案
+            document.getElementById('answerContent').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function hideAnswers() {
+            document.getElementById('answerContent').style.display = 'none';
+            document.getElementById('showAnswersBtn').style.display = 'inline-block';
+            document.getElementById('hideAnswersBtn').style.display = 'none';
+        }
+        
+        function printTest() {
+            if (vocabData.length === 0) {
+                alert('请先生成测试卷');
+                return;
+            }
+            
+            // 隐藏控制按钮和答案
+            const controls = document.querySelector('.controls');
+            const fileInput = document.querySelector('.file-input');
+            const answerContent = document.getElementById('answerContent');
+            
+            controls.style.display = 'none';
+            fileInput.style.display = 'none';
+            answerContent.style.display = 'none';
+            
+            // 打印
+            window.print();
+            
+            // 恢复控制按钮
+            setTimeout(() => {
+                controls.style.display = 'block';
+                fileInput.style.display = 'block';
+            }, 1000);
+        }
+        
+        function printAnswers() {
+            if (currentKanaToKanjiData.length === 0) {
+                alert('请先生成测试卷和答案');
+                return;
+            }
+            
+            // 显示答案（如果还没显示）
+            if (document.getElementById('answerContent').style.display === 'none') {
+                showAnswers();
+            }
+            
+            // 隐藏测试内容和控制按钮
+            const controls = document.querySelector('.controls');
+            const fileInput = document.querySelector('.file-input');
+            const testContent = document.getElementById('testContent');
+            
+            controls.style.display = 'none';
+            fileInput.style.display = 'none';
+            testContent.style.display = 'none';
+            
+            // 打印
+            window.print();
+            
+            // 恢复显示
+            setTimeout(() => {
+                controls.style.display = 'block';
+                fileInput.style.display = 'block';
+                testContent.style.display = 'block';
+            }, 1000);
+        }
+        
+        // 打印样式
+        const printStyles = `
+            @media print {
+                body { 
+                    background: white !important; 
+                    -webkit-print-color-adjust: exact;
+                }
+                .test-container { 
+                    box-shadow: none !important; 
+                    margin: 0 !important;
+                    padding: 20px !important;
+                }
+                .question:hover {
+                    transform: none !important;
+                    box-shadow: none !important;
+                }
+                .btn { display: none !important; }
+                .file-input { display: none !important; }
+                .controls { display: none !important; }
+                .section { page-break-inside: avoid; }
+                .question-grid { 
+                    grid-template-columns: repeat(2, 1fr) !important;
+                    gap: 10px !important;
+                }
+                .answer-line {
+                    border-bottom: 1px solid #333 !important;
+                    min-width: 100px !important;
+                }
+                .answer-pair {
+                    border: 1px solid #333 !important;
+                    margin-bottom: 5px !important;
+                }
+                .answer-result {
+                    background: #f0f0f0 !important;
+                    color: #333 !important;
+                }
+            }
+        `;
+        
+        const styleSheet = document.createElement('style');
+        styleSheet.textContent = printStyles;
+        document.head.appendChild(styleSheet);
+    </script>
+</body>
+</html>

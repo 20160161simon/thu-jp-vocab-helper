@@ -1,2 +1,34 @@
 # thu-jp-vocab-helper
-清华大学日语二外课程词汇背诵工具 | Japanese vocab helper for Tsinghua's Japanese course
+
+> 清华大学日语二外课程词汇背诵工具 | Japanese vocab helper for Tsinghua's Japanese course
+
+这个仓库是我上日语 (1) 的时候利用 ChatGPT 写的一个背诵小软件，完全基于 html 所以无需任何环境安装，希望能帮到各位。
+
+Note: 由于单词表是完全靠我手打的，所以难免会出现一些小错误，若发现有误，敬请指出。
+
+## 使用方法
+
+1. **(下载压缩包)** 点击右上角 `Code`，点击 `Download ZIP`，就会下载压缩包，解压即可。
+2. 解压之后打开 `kanji-kana.html` 即可使用
+
+目前只支持日语 (1) 的单词表，且只包括有汉字表达的单词，与 json 文件对应关系如下：
+
+- `1-1.json`：日语 (1) 上半学期单词表 (第一課～第七課)
+  - 不包括星期、数词、量词等课后内容
+- `1-2.json`: 日语 (1) 下半学期单词表 (第八課～第十二課)
+
+Note: 如果你想要构造一个自己的错题 `json` 文件，可以直接在原 `json` 文件中搜索假名，然后创建一个 `xxx.json` 文件，格式如下 (注意最后一个花括号后没有逗号)：
+
+```json
+[
+    {
+        "kana": "あう",
+        "kanji": "会う",
+    },
+    ...
+    {
+        "kana": "いえ",
+        "kanji": "家",
+    }
+]
+```

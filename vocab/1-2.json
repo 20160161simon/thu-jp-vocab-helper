@@ -1,0 +1,1238 @@
+[
+  {
+    "kana": "しゅと",
+    "kanji": "首(しゅ)都(と)",
+    "part_of_speech": "名",
+    "chinese": "首都"
+  },
+  {
+    "kana": "じんこう",
+    "kanji": "人(じん)口(こう)",
+    "part_of_speech": "名",
+    "chinese": "人口"
+  },
+  {
+    "kana": "～あまり",
+    "kanji": "",
+    "part_of_speech": "接尾",
+    "chinese": "~多（数字）"
+  },
+  {
+    "kana": "～まん",
+    "kanji": "～万(まん)",
+    "part_of_speech": "量",
+    "chinese": "~万"
+  },
+  {
+    "kana": "～にん",
+    "kanji": "～人(にん)",
+    "part_of_speech": "量",
+    "chinese": "~人"
+  },
+  {
+    "kana": "もっとも",
+    "kanji": "最(もっと)も",
+    "part_of_speech": "副",
+    "chinese": "最"
+  },
+  {
+    "kana": "とし",
+    "kanji": "都(と)市(し)",
+    "part_of_speech": "名",
+    "chinese": "都市，城市"
+  },
+  {
+    "kana": "こうつう",
+    "kanji": "交(こう)通(つう)",
+    "part_of_speech": "名",
+    "chinese": "交通"
+  },
+  {
+    "kana": "べんりだ",
+    "kanji": "便(べん)利(り)だ",
+    "part_of_speech": "形动",
+    "chinese": "方便"
+  },
+  {
+    "kana": "まち",
+    "kanji": "町(まち)",
+    "part_of_speech": "名",
+    "chinese": "街、城镇"
+  },
+  {
+    "kana": "～ほん",
+    "kanji": "～本(ほん)",
+    "part_of_speech": "量",
+    "chinese": "条、根（细长物）"
+  },
+  {
+    "kana": "ゆうめいだ",
+    "kanji": "有名(ゆうめい)だ",
+    "part_of_speech": "形动",
+    "chinese": "有名"
+  },
+  {
+    "kana": "しんかんせん",
+    "kanji": "新(しん)幹(かん)線(せん)",
+    "part_of_speech": "名",
+    "chinese": "新干线"
+  },
+  {
+    "kana": "しんじゅく",
+    "kanji": "新(しん)宿(じゅく)",
+    "part_of_speech": "名",
+    "chinese": "新宿"
+  },
+  {
+    "kana": "こうそう",
+    "kanji": "高(こう)層(そう)",
+    "part_of_speech": "名",
+    "chinese": "高层"
+  },
+  {
+    "kana": "ビル",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "大楼"
+  },
+  {
+    "kana": "はらじゅく",
+    "kanji": "原(はら)宿(じゅく)",
+    "part_of_speech": "名",
+    "chinese": "原宿"
+  },
+  {
+    "kana": "わかもの",
+    "kanji": "若(わか)者(もの)",
+    "part_of_speech": "名",
+    "chinese": "年轻人"
+  },
+  {
+    "kana": "しゅうまつ",
+    "kanji": "週(しゅう)末(まつ)",
+    "part_of_speech": "名",
+    "chinese": "周末"
+  },
+  {
+    "kana": "にぎやかだ",
+    "kanji": "賑(にぎ)やかだ",
+    "part_of_speech": "形动",
+    "chinese": "热闹"
+  },
+  {
+    "kana": "せいけつだ",
+    "kanji": "清(せい)潔(けつ)だ",
+    "part_of_speech": "形动",
+    "chinese": "清洁、干净"
+  },
+  {
+    "kana": "そんな",
+    "kanji": "",
+    "part_of_speech": "连体",
+    "chinese": "那样的"
+  },
+  {
+    "kana": "もんだい",
+    "kanji": "問(もん)題(だい)",
+    "part_of_speech": "名",
+    "chinese": "问题"
+  },
+  {
+    "kana": "じしん",
+    "kanji": "地(じ)震(しん)",
+    "part_of_speech": "名",
+    "chinese": "地震"
+  },
+  {
+    "kana": "ぶっか",
+    "kanji": "物(ぶっ)価(か)",
+    "part_of_speech": "名",
+    "chinese": "物价"
+  },
+  {
+    "kana": "ひとびと",
+    "kanji": "人々(ひとびと)",
+    "part_of_speech": "名",
+    "chinese": "人们"
+  },
+  {
+    "kana": "まいにち",
+    "kanji": "毎(まい)日(にち)",
+    "part_of_speech": "名",
+    "chinese": "每天"
+  },
+  {
+    "kana": "すきだ",
+    "kanji": "好(す)きだ",
+    "part_of_speech": "形动",
+    "chinese": "喜欢"
+  },
+  {
+    "kana": "にほんご",
+    "kanji": "日(に)本(ほん)語(ご)",
+    "part_of_speech": "名",
+    "chinese": "日语"
+  },
+  {
+    "kana": "じょうずだ",
+    "kanji": "上(じょう)手(ず)だ",
+    "part_of_speech": "形动",
+    "chinese": "水平高"
+  },
+  {
+    "kana": "まだまだ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "chinese": "还"
+  },
+  {
+    "kana": "とても",
+    "kanji": "",
+    "part_of_speech": "副",
+    "chinese": "很"
+  },
+  {
+    "kana": "むずかしい",
+    "kanji": "難(むずか)しい",
+    "part_of_speech": "形",
+    "chinese": "难的"
+  },
+  {
+    "kana": "でも",
+    "kanji": "",
+    "part_of_speech": "接",
+    "chinese": "不过、可是"
+  },
+  {
+    "kana": "ほんとうだ",
+    "kanji": "本(ほん)当(とう)だ",
+    "part_of_speech": "名、形动",
+    "chinese": "真"
+  },
+  {
+    "kana": "すいえい",
+    "kanji": "水(すい)泳(えい)",
+    "part_of_speech": "名",
+    "chinese": "游泳"
+  },
+  {
+    "kana": "だいすきだ",
+    "kanji": "大(だい)好(す)きだ",
+    "part_of_speech": "形动",
+    "chinese": "特别喜欢"
+  },
+  {
+    "kana": "よく",
+    "kanji": "",
+    "part_of_speech": "副",
+    "chinese": "经常地、很好地"
+  },
+  {
+    "kana": "プール",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "游泳池"
+  },
+  {
+    "kana": "こうど",
+    "kanji": "今(こん)度(ど)",
+    "part_of_speech": "名、副",
+    "chinese": "这次、下次"
+  },
+  {
+    "kana": "にちようび",
+    "kanji": "日(にち)曜(よう)日(び)",
+    "part_of_speech": "名",
+    "chinese": "星期日"
+  },
+  {
+    "kana": "いっしょ",
+    "kanji": "一(いっ)緒(しょ)",
+    "part_of_speech": "副",
+    "chinese": "一起、一同"
+  },
+  {
+    "kana": "パソコン",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "个人电脑"
+  },
+  {
+    "kana": "インターネット",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "因特网"
+  },
+  {
+    "kana": "する",
+    "kanji": "",
+    "part_of_speech": "自他サ",
+    "chinese": "做、干、搞"
+  },
+  {
+    "kana": "まいあさ",
+    "kanji": "毎(まい)朝(あさ)",
+    "part_of_speech": "名",
+    "chinese": "每天早晨"
+  },
+  {
+    "kana": "おきる",
+    "kanji": "起(お)きる",
+    "part_of_speech": "自一",
+    "chinese": "起床"
+  },
+  {
+    "kana": "まず",
+    "kanji": "",
+    "part_of_speech": "副",
+    "chinese": "首先"
+  },
+  {
+    "kana": "かお",
+    "kanji": "顔(かお)",
+    "part_of_speech": "名",
+    "chinese": "脸"
+  },
+  {
+    "kana": "あらい",
+    "kanji": "洗(あら)い",
+    "part_of_speech": "他五",
+    "chinese": "洗"
+  },
+  {
+    "kana": "ジョギング",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "慢跑"
+  },
+  {
+    "kana": "それから",
+    "kanji": "",
+    "part_of_speech": "接",
+    "chinese": "然后"
+  },
+  {
+    "kana": "しょくどう",
+    "kanji": "食(しょく)堂(どう)",
+    "part_of_speech": "名",
+    "chinese": "食堂"
+  },
+  {
+    "kana": "あさごはん",
+    "kanji": "朝(あさ)ご飯(はん)",
+    "part_of_speech": "名",
+    "chinese": "早饭"
+  },
+  {
+    "kana": "じゅぎょう",
+    "kanji": "授(じゅ)業(ぎょう)",
+    "part_of_speech": "名",
+    "chinese": "课、上课"
+  },
+  {
+    "kana": "はじまる",
+    "kanji": "始(はじ)まる",
+    "part_of_speech": "自五",
+    "chinese": "开始"
+  },
+  {
+    "kana": "～ごろ",
+    "kanji": "～頃(ごろ)",
+    "part_of_speech": "接尾",
+    "chinese": "~左右（时间）"
+  },
+  {
+    "kana": "ともだち",
+    "kanji": "友(とも)達(だち)",
+    "part_of_speech": "名",
+    "chinese": "朋友"
+  },
+  {
+    "kana": "ひるごはん",
+    "kanji": "昼(ひる)ご飯(はん)",
+    "part_of_speech": "名",
+    "chinese": "中午饭"
+  },
+  {
+    "kana": "ごご",
+    "kanji": "午(ご)後(ご)",
+    "part_of_speech": "名",
+    "chinese": "下午"
+  },
+  {
+    "kana": "しゅくだい",
+    "kanji": "宿(しゅく)題(だい)",
+    "part_of_speech": "名",
+    "chinese": "家庭作业"
+  },
+  {
+    "kana": "しゅう",
+    "kanji": "週(しゅう)",
+    "part_of_speech": "名",
+    "chinese": "星期"
+  },
+  {
+    "kana": "～かい",
+    "kanji": "～回(かい)",
+    "part_of_speech": "量",
+    "chinese": "次"
+  },
+  {
+    "kana": "～くらい",
+    "kanji": "",
+    "part_of_speech": "接尾",
+    "chinese": "大约、左右（量词）"
+  },
+  {
+    "kana": "ばんごはん",
+    "kanji": "晩(ばん)ご飯(はん)",
+    "part_of_speech": "名",
+    "chinese": "晚饭"
+  },
+  {
+    "kana": "～ご",
+    "kanji": "～後(ご)",
+    "part_of_speech": "接尾",
+    "chinese": "~后"
+  },
+  {
+    "kana": "よしゅう",
+    "kanji": "予(よ)習(しゅう)",
+    "part_of_speech": "名",
+    "chinese": "预习"
+  },
+  {
+    "kana": "りょう",
+    "kanji": "寮(りょう)",
+    "part_of_speech": "名",
+    "chinese": "宿舍"
+  },
+  {
+    "kana": "もどる",
+    "kanji": "戻(もど)る",
+    "part_of_speech": "自五",
+    "chinese": "返回"
+  },
+  {
+    "kana": "ときどき",
+    "kanji": "時々(ときどき)",
+    "part_of_speech": "副",
+    "chinese": "有时"
+  },
+  {
+    "kana": "ラジオ",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "收音机"
+  },
+  {
+    "kana": "おんがく",
+    "kanji": "音(おん)楽(がく)",
+    "part_of_speech": "名",
+    "chinese": "音乐"
+  },
+  {
+    "kana": "きく",
+    "kanji": "聴(き)く",
+    "part_of_speech": "他五",
+    "chinese": "听"
+  },
+  {
+    "kana": "しょうとう",
+    "kanji": "消(しょう)灯(とう)",
+    "part_of_speech": "名",
+    "chinese": "熄灯"
+  },
+  {
+    "kana": "どよう",
+    "kanji": "土(ど)曜(よう)",
+    "part_of_speech": "名",
+    "chinese": "星期六"
+  },
+  {
+    "kana": "やすみ",
+    "kanji": "休(やす)み",
+    "part_of_speech": "自五",
+    "chinese": "休息"
+  },
+  {
+    "kana": "ふだん",
+    "kanji": "普(ふ)段(だん)",
+    "part_of_speech": "名、副词",
+    "chinese": "平时、平素"
+  },
+  {
+    "kana": "なに",
+    "kanji": "何(なに)",
+    "part_of_speech": "名",
+    "chinese": "什么"
+  },
+  {
+    "kana": "ごぜん",
+    "kanji": "午(ご)前(ぜん)",
+    "part_of_speech": "名",
+    "chinese": "上午"
+  },
+  {
+    "kana": "せんたく",
+    "kanji": "洗(せん)濯(たく)",
+    "part_of_speech": "名",
+    "chinese": "洗衣服"
+  },
+  {
+    "kana": "かてい",
+    "kanji": "家(か)庭(てい)",
+    "part_of_speech": "名",
+    "chinese": "家庭"
+  },
+  {
+    "kana": "きょうし",
+    "kanji": "教師(きょうし)",
+    "part_of_speech": "名",
+    "chinese": "教师"
+  },
+  {
+    "kana": "アルバイト",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "打工"
+  },
+  {
+    "kana": "おしえる",
+    "kanji": "教(おし)える",
+    "part_of_speech": "他一",
+    "chinese": "教"
+  },
+  {
+    "kana": "ギター",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "吉他"
+  },
+  {
+    "kana": "ひく",
+    "kanji": "弾(ひ)く",
+    "part_of_speech": "他五",
+    "chinese": "弹"
+  },
+  {
+    "kana": "あと",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "后面、以后"
+  },
+  {
+    "kana": "がいこくご",
+    "kanji": "外(がい)国(こく)語(ご)",
+    "part_of_speech": "名",
+    "chinese": "外语"
+  },
+  {
+    "kana": "しんゆう",
+    "kanji": "親(しん)友(ゆう)",
+    "part_of_speech": "名",
+    "chinese": "亲密的朋友"
+  },
+  {
+    "kana": "どうきゅうせい",
+    "kanji": "同(どう)級(きゅう)生(せい)",
+    "part_of_speech": "名",
+    "chinese": "同年级同学"
+  },
+  {
+    "kana": "てんしんだいがく",
+    "kanji": "天(てん)津(しん)大(だい)学(がく)",
+    "part_of_speech": "名",
+    "chinese": "天津大学"
+  },
+  {
+    "kana": "ある",
+    "kanji": "",
+    "part_of_speech": "连体",
+    "chinese": "某"
+  },
+  {
+    "kana": "ひさしぶり",
+    "kanji": "久(ひさ)しぶり",
+    "part_of_speech": "名",
+    "chinese": "许久"
+  },
+  {
+    "kana": "まちあわせる",
+    "kanji": "待(ま)ち合(あ)わせる",
+    "part_of_speech": "他一",
+    "chinese": "约会、碰头"
+  },
+  {
+    "kana": "てんあんもん",
+    "kanji": "天(てん)安(あん)門(もん)",
+    "part_of_speech": "名",
+    "chinese": "天安门"
+  },
+  {
+    "kana": "しゃしん",
+    "kanji": "写真(しゃしん)",
+    "part_of_speech": "名",
+    "chinese": "照片"
+  },
+  {
+    "kana": "とる",
+    "kanji": "撮(と)る",
+    "part_of_speech": "动",
+    "chinese": "拍照"
+  },
+  {
+    "kana": "ワンフーチン",
+    "kanji": "王(ワン)府(フー)井(チン)",
+    "part_of_speech": "名",
+    "chinese": "王府井"
+  },
+  {
+    "kana": "あるく",
+    "kanji": "歩(ある)く",
+    "part_of_speech": "自五",
+    "chinese": "走"
+  },
+  {
+    "kana": "きっさてん",
+    "kanji": "喫(きっ)茶(さ)店(てん)",
+    "part_of_speech": "名",
+    "chinese": "咖啡馆"
+  },
+  {
+    "kana": "コーヒー",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "咖啡"
+  },
+  {
+    "kana": "ちゅうもん",
+    "kanji": "注(ちゅう)文(もん)",
+    "part_of_speech": "他サ",
+    "chinese": "订购，订货"
+  },
+  {
+    "kana": "ミルク",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "牛奶"
+  },
+  {
+    "kana": "さとう",
+    "kanji": "砂(さ)糖(とう)",
+    "part_of_speech": "名",
+    "chinese": "糖、砂糖"
+  },
+  {
+    "kana": "いれる",
+    "kanji": "入(い)れる",
+    "part_of_speech": "他一",
+    "chinese": "放入"
+  },
+  {
+    "kana": "コート",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "大衣"
+  },
+  {
+    "kana": "ほしい",
+    "kanji": "",
+    "part_of_speech": "形",
+    "chinese": "想要"
+  },
+  {
+    "kana": "かわり",
+    "kanji": "代(か)わり",
+    "part_of_speech": "名",
+    "chinese": "代替"
+  },
+  {
+    "kana": "セーター",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "毛衣"
+  },
+  {
+    "kana": "こんえん",
+    "kanji": "公(こう)園(えん)",
+    "part_of_speech": "名",
+    "chinese": "公园"
+  },
+  {
+    "kana": "しょうらい",
+    "kanji": "将(しょう)来(らい)",
+    "part_of_speech": "名",
+    "chinese": "将来"
+  },
+  {
+    "kana": "かたりあう",
+    "kanji": "語(かた)り合(あ)う",
+    "part_of_speech": "他五",
+    "chinese": "交谈"
+  },
+  {
+    "kana": "たのしい",
+    "kanji": "楽(たの)しい",
+    "part_of_speech": "形",
+    "chinese": "快乐"
+  },
+  {
+    "kana": "なる",
+    "kanji": "",
+    "part_of_speech": "自五",
+    "chinese": "成为"
+  },
+  {
+    "kana": "アナウンサー",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "播音员"
+  },
+  {
+    "kana": "そつぎょう",
+    "kanji": "卒(そつ)業(ぎょう)",
+    "part_of_speech": "名、自サ",
+    "chinese": "毕业"
+  },
+  {
+    "kana": "だいがくいん",
+    "kanji": "大(だい)学(がく)院(いん)",
+    "part_of_speech": "名",
+    "chinese": "研究生院"
+  },
+  {
+    "kana": "エムビーエー",
+    "kanji": "M(エム)B(ビー)A(エー)",
+    "part_of_speech": "名",
+    "chinese": "MBA"
+  },
+  {
+    "kana": "とる",
+    "kanji": "取(と)る",
+    "part_of_speech": "他五",
+    "chinese": "取"
+  },
+  {
+    "kana": "すごい",
+    "kanji": "",
+    "part_of_speech": "形",
+    "chinese": "厉害、非常"
+  },
+  {
+    "kana": "もっと",
+    "kanji": "",
+    "part_of_speech": "副词",
+    "chinese": "更加"
+  },
+  {
+    "kana": "おたがい",
+    "kanji": "お互(たが)い",
+    "part_of_speech": "名",
+    "chinese": "互相"
+  },
+  {
+    "kana": "がんばる",
+    "kanji": "頑(がん)張(ば)る",
+    "part_of_speech": "自五",
+    "chinese": "拼命努力"
+  },
+  {
+    "kana": "くうこう",
+    "kanji": "空(くう)港(こう)",
+    "part_of_speech": "名",
+    "chinese": "机场"
+  },
+  {
+    "kana": "けってい",
+    "kanji": "決(けっ)定(てい)",
+    "part_of_speech": "名、他サ",
+    "chinese": "决定、确定"
+  },
+  {
+    "kana": "おめでとうございます",
+    "kanji": "",
+    "part_of_speech": "词组",
+    "chinese": "恭喜"
+  },
+  {
+    "kana": "らいにち",
+    "kanji": "来(らい)日(にち)",
+    "part_of_speech": "名、自サ",
+    "chinese": "来日本"
+  },
+  {
+    "kana": "とうちゃく",
+    "kanji": "到(とう)着(ちゃく)",
+    "part_of_speech": "名、自サ",
+    "chinese": "到达"
+  },
+  {
+    "kana": "なんじ",
+    "kanji": "何(なん)時(じ)",
+    "part_of_speech": "名",
+    "chinese": "几点"
+  },
+  {
+    "kana": "よてい",
+    "kanji": "予(よ)定(てい)",
+    "part_of_speech": "名、他サ",
+    "chinese": "预定、计划"
+  },
+  {
+    "kana": "むかえ",
+    "kanji": "迎(むか)え",
+    "part_of_speech": "名",
+    "chinese": "迎接"
+  },
+  {
+    "kana": "ロビー",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "门厅、前厅"
+  },
+  {
+    "kana": "かえる",
+    "kanji": "帰(かえ)る",
+    "part_of_speech": "自五",
+    "chinese": "回，回去"
+  },
+  {
+    "kana": "しゅうしょく",
+    "kanji": "就(しゅう)職(しょく)",
+    "part_of_speech": "名、自サ",
+    "chinese": "就业"
+  },
+  {
+    "kana": "ぼうえき",
+    "kanji": "貿(ぼう)易(えき)",
+    "part_of_speech": "名、自サ",
+    "chinese": "贸易"
+  },
+  {
+    "kana": "つかう",
+    "kanji": "使(つか)う",
+    "part_of_speech": "他五",
+    "chinese": "使用"
+  },
+  {
+    "kana": "ざんぎょう",
+    "kanji": "残(ざん)業(ぎょう)",
+    "part_of_speech": "名、自サ",
+    "chinese": "加班"
+  },
+  {
+    "kana": "ひび",
+    "kanji": "日々(ひび)",
+    "part_of_speech": "名",
+    "chinese": "每天"
+  },
+  {
+    "kana": "なつかしい",
+    "kanji": "懐(なつ)かしい",
+    "part_of_speech": "形",
+    "chinese": "令人怀念"
+  },
+  {
+    "kana": "じゅうきょ",
+    "kanji": "住(じゅう)居(きょ)",
+    "part_of_speech": "名",
+    "chinese": "住所"
+  },
+  {
+    "kana": "けっして",
+    "kanji": "決(けっ)して",
+    "part_of_speech": "副词",
+    "chinese": "(下接否定) 绝(不)"
+  },
+  {
+    "kana": "しんぱいだ",
+    "kanji": "心(しん)配(ぱい)だ",
+    "part_of_speech": "形动、自他サ",
+    "chinese": "担心"
+  },
+  {
+    "kana": "いる",
+    "kanji": "要(い)る",
+    "part_of_speech": "自五",
+    "chinese": "需要"
+  },
+  {
+    "kana": "やすい",
+    "kanji": "安(やす)い",
+    "part_of_speech": "形",
+    "chinese": "便宜"
+  },
+  {
+    "kana": "アパート",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "公寓"
+  },
+  {
+    "kana": "しょうかい",
+    "kanji": "紹(しょう)介(かい)",
+    "part_of_speech": "名、他サ",
+    "chinese": "介绍"
+  },
+  {
+    "kana": "あんしんだ",
+    "kanji": "安(あん)心(しん)だ",
+    "part_of_speech": "形动，自サ",
+    "chinese": "放心"
+  },
+  {
+    "kana": "では",
+    "kanji": "",
+    "part_of_speech": "接",
+    "chinese": "那么"
+  },
+  {
+    "kana": "げんきだ",
+    "kanji": "元(げん)気(き)だ",
+    "part_of_speech": "名、形动",
+    "chinese": "健康"
+  },
+  {
+    "kana": "レストラン",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "西餐厅"
+  },
+  {
+    "kana": "のど",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "嗓子"
+  },
+  {
+    "kana": "かわく",
+    "kanji": "渇(かわ)く",
+    "part_of_speech": "自五",
+    "chinese": "渴"
+  },
+  {
+    "kana": "のむ",
+    "kanji": "飲(の)む",
+    "part_of_speech": "他五",
+    "chinese": "喝"
+  },
+  {
+    "kana": "ふじさん",
+    "kanji": "富(ふ)士(じ)山(さん)",
+    "part_of_speech": "名",
+    "chinese": "富士山"
+  },
+  {
+    "kana": "すばらしい",
+    "kanji": "素(す)晴(ば)らしい",
+    "part_of_speech": "形",
+    "chinese": "极美、绝好"
+  },
+  {
+    "kana": "わらう",
+    "kanji": "笑(わら)う",
+    "part_of_speech": "自五",
+    "chinese": "笑"
+  },
+  {
+    "kana": "あの",
+    "kanji": "",
+    "part_of_speech": "感",
+    "chinese": "喂、那个"
+  },
+  {
+    "kana": "おてあらい",
+    "kanji": "お手(て)洗(あら)い",
+    "part_of_speech": "名",
+    "chinese": "洗手间"
+  },
+  {
+    "kana": "まつ",
+    "kanji": "待(ま)つ",
+    "part_of_speech": "他五",
+    "chinese": "等待"
+  },
+  {
+    "kana": "かいがい",
+    "kanji": "海(かい)外(がい)",
+    "part_of_speech": "名",
+    "chinese": "海外"
+  },
+  {
+    "kana": "りょこう",
+    "kanji": "旅(りょ)行(こう)",
+    "part_of_speech": "名、自サ",
+    "chinese": "旅行"
+  },
+  {
+    "kana": "めずらしい",
+    "kanji": "珍(めずら)しい",
+    "part_of_speech": "形",
+    "chinese": "罕见、稀奇"
+  },
+  {
+    "kana": "こと",
+    "kanji": "事(こと)",
+    "part_of_speech": "名",
+    "chinese": "海外"
+  },
+  {
+    "kana": "たとえば",
+    "kanji": "例(たと)えば",
+    "part_of_speech": "副",
+    "chinese": "例如"
+  },
+  {
+    "kana": "しんこん",
+    "kanji": "新婚(しんこん)",
+    "part_of_speech": "名",
+    "chinese": "新婚"
+  },
+  {
+    "kana": "こくない",
+    "kanji": "国内(こくない)",
+    "part_of_speech": "名",
+    "chinese": "国内"
+  },
+  {
+    "kana": "えらぶ",
+    "kanji": "選(えら)ぶ",
+    "part_of_speech": "他五",
+    "chinese": "选择"
+  },
+  {
+    "kana": "すくない",
+    "kanji": "少(すく)ない",
+    "part_of_speech": "形",
+    "chinese": "烧"
+  },
+  {
+    "kana": "おもう",
+    "kanji": "思(おも)う",
+    "part_of_speech": "他五",
+    "chinese": "想，认为"
+  },
+  {
+    "kana": "おおく",
+    "kanji": "多(おお)く",
+    "part_of_speech": "副、形",
+    "chinese": "多"
+  },
+  {
+    "kana": "カップル",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "情侣"
+  },
+  {
+    "kana": "ハワイ",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "夏威夷"
+  },
+  {
+    "kana": "ヨーロッパ",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "欧洲"
+  },
+  {
+    "kana": "いう",
+    "kanji": "言(い)う",
+    "part_of_speech": "他五",
+    "chinese": "说、讲"
+  },
+  {
+    "kana": "かくち",
+    "kanji": "各地(かくち)",
+    "part_of_speech": "名",
+    "chinese": "各地"
+  },
+  {
+    "kana": "たんき",
+    "kanji": "短(たん)期(き)",
+    "part_of_speech": "名",
+    "chinese": "短期"
+  },
+  {
+    "kana": "ホームステイ",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "住当地居民家体验"
+  },
+  {
+    "kana": "こじん",
+    "kanji": "個(こ)人(じん)",
+    "part_of_speech": "名",
+    "chinese": "个人"
+  },
+  {
+    "kana": "おおぜい",
+    "kanji": "大(おお)勢(ぜい)",
+    "part_of_speech": "名",
+    "chinese": "许多人"
+  },
+  {
+    "kana": "くに",
+    "kanji": "国(くに)",
+    "part_of_speech": "名",
+    "chinese": "国家"
+  },
+  {
+    "kana": "ほう",
+    "kanji": "方(ほう)",
+    "part_of_speech": "名",
+    "chinese": "方面"
+  },
+  {
+    "kana": "ねだん",
+    "kanji": "値(ね)段(だん)",
+    "part_of_speech": "名",
+    "chinese": "价钱"
+  },
+  {
+    "kana": "ばあい",
+    "kanji": "場合(ばあい)",
+    "part_of_speech": "名",
+    "chinese": "场合、情形"
+  },
+  {
+    "kana": "ビザ",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "签证"
+  },
+  {
+    "kana": "ふようだ",
+    "kanji": "不(ふ)要(よう)だ",
+    "part_of_speech": "名、形动",
+    "chinese": "不需要"
+  },
+  {
+    "kana": "かんたんだ",
+    "kanji": "簡(かん)単(たん)だ",
+    "part_of_speech": "名、形动",
+    "chinese": "简单，简略"
+  },
+  {
+    "kana": "しかし",
+    "kanji": "",
+    "part_of_speech": "接",
+    "chinese": "然而，但是"
+  },
+  {
+    "kana": "いっしょうけんめいだ",
+    "kanji": "一(いっ)生(しょう)懸(けん)命(めい)だ",
+    "part_of_speech": "名、形动",
+    "chinese": "拼命、努力"
+  },
+  {
+    "kana": "べんきょう",
+    "kanji": "勉(べん)強(きょう)",
+    "part_of_speech": "名、他サ",
+    "chinese": "学习、用功"
+  },
+  {
+    "kana": "きちょうだ",
+    "kanji": "貴(き)重(ちょう)だ",
+    "part_of_speech": "名、形动",
+    "chinese": "贵重、宝贵"
+  },
+  {
+    "kana": "せいしゅん",
+    "kanji": "青(せい)春(しゅん)",
+    "part_of_speech": "名",
+    "chinese": "青春"
+  },
+  {
+    "kana": "いちにち",
+    "kanji": "一日(ついたち)",
+    "part_of_speech": "名",
+    "chinese": "一天、整日"
+  },
+  {
+    "kana": "たいせつだ",
+    "kanji": "大(たい)切(せつ)だ",
+    "part_of_speech": "名、形动",
+    "chinese": "重要、要紧"
+  },
+  {
+    "kana": "なつやすみ",
+    "kanji": "夏(なつ)休(やす)み",
+    "part_of_speech": "名",
+    "chinese": "暑假"
+  },
+  {
+    "kana": "すごす",
+    "kanji": "過(す)ごす",
+    "part_of_speech": "他五",
+    "chinese": "度过"
+  },
+  {
+    "kana": "のこる",
+    "kanji": "残(のこ)る",
+    "part_of_speech": "自五",
+    "chinese": "留下，留在"
+  },
+  {
+    "kana": "エイチエスケー",
+    "kanji": "Ｈ(エイチ)Ｓ(エス)Ｋ(ケー)",
+    "part_of_speech": "名",
+    "chinese": "汉语水平考试"
+  },
+  {
+    "kana": "しけん",
+    "kanji": "試(し)験(けん)",
+    "part_of_speech": "名、他サ",
+    "chinese": "考试"
+  },
+  {
+    "kana": "うける",
+    "kanji": "受(う)ける",
+    "part_of_speech": "他一",
+    "chinese": "接受"
+  },
+  {
+    "kana": "チベット",
+    "kanji": "",
+    "part_of_speech": "名",
+    "chinese": "西藏"
+  },
+  {
+    "kana": "おぼん",
+    "kanji": "お盆(ぼん)",
+    "part_of_speech": "名",
+    "chinese": "孟兰盆会"
+  },
+  {
+    "kana": "くる",
+    "kanji": "来(く)る",
+    "part_of_speech": "自カ",
+    "chinese": "到来"
+  },
+  {
+    "kana": "ばんりのちょうじょう",
+    "kanji": "万(ばん)里(り)の長(ちょう)城(じょう)",
+    "part_of_speech": "名",
+    "chinese": "万里长城"
+  },
+  {
+    "kana": "あんない",
+    "kanji": "案(あん)内(ない)",
+    "part_of_speech": "名、他サ",
+    "chinese": "陪同游览"
+  },
+  {
+    "kana": "そう",
+    "kanji": "",
+    "part_of_speech": "副",
+    "chinese": "是，是吗"
+  },
+  {
+    "kana": "よい",
+    "kanji": "良(よ)い",
+    "part_of_speech": "形",
+    "chinese": "好的"
+  }
+]

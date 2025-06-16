@@ -1,0 +1,2034 @@
+[
+  {
+    "lesson": "第一課",
+    "index": 1,
+    "kana": "あう",
+    "kanji": "会(あ)う",
+    "accent": 1,
+    "chinese": "会见"
+  },
+  {
+    "lesson": "第一課",
+    "index": 2,
+    "kana": "いえ",
+    "kanji": "家(いえ)",
+    "accent": 2,
+    "chinese": "家"
+  },
+  {
+    "lesson": "第一課",
+    "index": 3,
+    "kana": "うえ",
+    "kanji": "上(うえ)",
+    "accent": 2,
+    "chinese": "上面"
+  },
+  {
+    "lesson": "第一課",
+    "index": 4,
+    "kana": "あおい",
+    "kanji": "青(あお)い",
+    "accent": 2,
+    "chinese": "蓝色"
+  },
+  {
+    "lesson": "第一課",
+    "index": 5,
+    "kana": "えき",
+    "kanji": "駅(えき)",
+    "accent": 1,
+    "chinese": "车站"
+  },
+  {
+    "lesson": "第一課",
+    "index": 6,
+    "kana": "いく",
+    "kanji": "行(い)く",
+    "accent": 0,
+    "chinese": "去"
+  },
+  {
+    "lesson": "第一課",
+    "index": 7,
+    "kana": "ここ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "这里（场所）"
+  },
+  {
+    "lesson": "第一課",
+    "index": 8,
+    "kana": "いけ",
+    "kanji": "池(いけ)",
+    "accent": 2,
+    "chinese": "池塘"
+  },
+  {
+    "lesson": "第一課",
+    "index": 9,
+    "kana": "いす",
+    "kanji": "椅(い)子(す)",
+    "accent": 0,
+    "chinese": "椅子"
+  },
+  {
+    "lesson": "第一課",
+    "index": 10,
+    "kana": "そこ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "那里（场所）"
+  },
+  {
+    "lesson": "第一課",
+    "index": 11,
+    "kana": "かさ",
+    "kanji": "傘(かさ)",
+    "accent": 0,
+    "chinese": "伞"
+  },
+  {
+    "lesson": "第一課",
+    "index": 12,
+    "kana": "しあい",
+    "kanji": "試(し)合(あい)",
+    "accent": 0,
+    "chinese": "比赛"
+  },
+  {
+    "lesson": "第一課",
+    "index": 13,
+    "kana": "せかい",
+    "kanji": "世(せ)界(かい)",
+    "accent": 1,
+    "chinese": "世界"
+  },
+  {
+    "lesson": "第一課",
+    "index": 14,
+    "kana": "つくえ",
+    "kanji": "机(つくえ)",
+    "accent": 0,
+    "chinese": "桌子"
+  },
+  {
+    "lesson": "第一課",
+    "index": 15,
+    "kana": "ことし",
+    "kanji": "今(こ)年(とし)",
+    "accent": 0,
+    "chinese": "今年"
+  },
+  {
+    "lesson": "第一課",
+    "index": 15,
+    "kana": "ちかてつ",
+    "kanji": "地下鉄(ちかてつ)",
+    "accent": 0,
+    "chinese": "地铁"
+  },
+  {
+    "lesson": "第一課",
+    "index": 16,
+    "kana": "たかい",
+    "kanji": "高(たか)い",
+    "accent": 2,
+    "chinese": "高"
+  },
+  {
+    "lesson": "第一課",
+    "index": 17,
+    "kana": "おとこ",
+    "kanji": "男(おとこ)",
+    "accent": 3,
+    "chinese": "男人、男性"
+  },
+  {
+    "lesson": "第一課",
+    "index": 18,
+    "kana": "おはようございます",
+    "kanji": "",
+    "accent": null,
+    "chinese": "早上好！"
+  },
+  {
+    "lesson": "第一課",
+    "index": 19,
+    "kana": "こんにちは",
+    "kanji": "",
+    "accent": null,
+    "chinese": "你好！（用于白天）"
+  },
+  {
+    "lesson": "第一課",
+    "index": 20,
+    "kana": "こんばんは",
+    "kanji": "",
+    "accent": null,
+    "chinese": "晚上好！"
+  },
+  {
+    "lesson": "第一課",
+    "index": 21,
+    "kana": "さようなら",
+    "kanji": "",
+    "accent": null,
+    "chinese": "再见！"
+  },
+  {
+    "lesson": "第二課",
+    "index": 1,
+    "kana": "あなた",
+    "kanji": "貴方(あなた)",
+    "accent": 2,
+    "chinese": "你"
+  },
+  {
+    "lesson": "第二課",
+    "index": 2,
+    "kana": "うえの",
+    "kanji": "上野(うえの)",
+    "accent": 0,
+    "chinese": "上野（地名）"
+  },
+  {
+    "lesson": "第二課",
+    "index": 3,
+    "kana": "にく",
+    "kanji": "肉(にく)",
+    "accent": 2,
+    "chinese": "肉"
+  },
+  {
+    "lesson": "第二課",
+    "index": 4,
+    "kana": "いぬ",
+    "kanji": "犬(いぬ)",
+    "accent": 2,
+    "chinese": "狗"
+  },
+  {
+    "lesson": "第二課",
+    "index": 5,
+    "kana": "ねこ",
+    "kanji": "猫(ねこ)",
+    "accent": 1,
+    "chinese": "猫"
+  },
+  {
+    "lesson": "第二課",
+    "index": 6,
+    "kana": "ひと",
+    "kanji": "人(ひと)",
+    "accent": 2,
+    "chinese": "人"
+  },
+  {
+    "lesson": "第二課",
+    "index": 7,
+    "kana": "はな",
+    "kanji": "花(はな)",
+    "accent": 2,
+    "chinese": "花"
+  },
+  {
+    "lesson": "第二課",
+    "index": 8,
+    "kana": "さいふ",
+    "kanji": "財布(さいふ)",
+    "accent": 0,
+    "chinese": "钱包"
+  },
+  {
+    "lesson": "第二課",
+    "index": 9,
+    "kana": "へた",
+    "kanji": "下手(へた)",
+    "accent": 2,
+    "chinese": "不擅长"
+  },
+  {
+    "lesson": "第二課",
+    "index": 10,
+    "kana": "ほか",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "其他"
+  },
+  {
+    "lesson": "第二課",
+    "index": 11,
+    "kana": "まえ",
+    "kanji": "前(まえ)",
+    "accent": 1,
+    "chinese": "前面"
+  },
+  {
+    "lesson": "第二課",
+    "index": 12,
+    "kana": "あめ",
+    "kanji": "雨(あめ)",
+    "accent": 1,
+    "chinese": "雨"
+  },
+  {
+    "lesson": "第二課",
+    "index": 13,
+    "kana": "むすめ",
+    "kanji": "娘(むすめ)",
+    "accent": 3,
+    "chinese": "女儿"
+  },
+  {
+    "lesson": "第二課",
+    "index": 14,
+    "kana": "みせ",
+    "kanji": "店(みせ)",
+    "accent": 2,
+    "chinese": "店"
+  },
+  {
+    "lesson": "第二課",
+    "index": 15,
+    "kana": "もつ",
+    "kanji": "持(も)つ",
+    "accent": 1,
+    "chinese": "拿"
+  },
+  {
+    "lesson": "第二課",
+    "index": 16,
+    "kana": "へや",
+    "kanji": "部(へ)屋(や)",
+    "accent": 2,
+    "chinese": "房间"
+  },
+  {
+    "lesson": "第二課",
+    "index": 17,
+    "kana": "よこ",
+    "kanji": "横(よこ)",
+    "accent": 0,
+    "chinese": "旁边"
+  },
+  {
+    "lesson": "第二課",
+    "index": 18,
+    "kana": "ゆめ",
+    "kanji": "夢(ゆめ)",
+    "accent": 2,
+    "chinese": "梦"
+  },
+  {
+    "lesson": "第二課",
+    "index": 19,
+    "kana": "はじめまして。",
+    "kanji": "",
+    "accent": null,
+    "chinese": "初次见面。"
+  },
+  {
+    "lesson": "第二課",
+    "index": 20,
+    "kana": "よろしくおねがいします。",
+    "kanji": "よろしくお願（が）いします。",
+    "accent": null,
+    "chinese": "请多关照。"
+  },
+  {
+    "lesson": "第二課",
+    "index": 21,
+    "kana": "おやすみなさい",
+    "kanji": "",
+    "accent": null,
+    "chinese": "晚安！"
+  },
+  {
+    "lesson": "第三課",
+    "index": 1,
+    "kana": "そら",
+    "kanji": "空(そら)",
+    "accent": 1,
+    "chinese": "天空"
+  },
+  {
+    "lesson": "第三課",
+    "index": 2,
+    "kana": "とり",
+    "kanji": "鳥(とり)",
+    "accent": 0,
+    "chinese": "鸟"
+  },
+  {
+    "lesson": "第三課",
+    "index": 3,
+    "kana": "はる",
+    "kanji": "春(はる)",
+    "accent": 1,
+    "chinese": "春天"
+  },
+  {
+    "lesson": "第三課",
+    "index": 4,
+    "kana": "これ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "这个"
+  },
+  {
+    "lesson": "第三課",
+    "index": 5,
+    "kana": "ろく",
+    "kanji": "六(ろく)",
+    "accent": 2,
+    "chinese": "六"
+  },
+  {
+    "lesson": "第三課",
+    "index": 6,
+    "kana": "わたし",
+    "kanji": "私(わたし)",
+    "accent": 0,
+    "chinese": "我"
+  },
+  {
+    "lesson": "第三課",
+    "index": 7,
+    "kana": "かいわ",
+    "kanji": "会(かい)話(わ)",
+    "accent": 0,
+    "chinese": "会话"
+  },
+  {
+    "lesson": "第三課",
+    "index": 8,
+    "kana": "テニスをします",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "打网球"
+  },
+  {
+    "lesson": "第三課",
+    "index": 9,
+    "kana": "がいこく",
+    "kanji": "外(がい)国(こく)",
+    "accent": 0,
+    "chinese": "外国"
+  },
+  {
+    "lesson": "第三課",
+    "index": 10,
+    "kana": "ぎかい",
+    "kanji": "議(ぎ)会(かい)",
+    "accent": 1,
+    "chinese": "议会"
+  },
+  {
+    "lesson": "第三課",
+    "index": 11,
+    "kana": "ぐあい",
+    "kanji": "具(ぐ)合(あい)",
+    "accent": 0,
+    "chinese": "情形"
+  },
+  {
+    "lesson": "第三課",
+    "index": 12,
+    "kana": "ひがし",
+    "kanji": "東(ひがし)",
+    "accent": 0,
+    "chinese": "东"
+  },
+  {
+    "lesson": "第三課",
+    "index": 13,
+    "kana": "かいぎ",
+    "kanji": "会議(かいぎ)",
+    "accent": 1,
+    "chinese": "会议"
+  },
+  {
+    "lesson": "第三課",
+    "index": 14,
+    "kana": "ごご",
+    "kanji": "午後(ごご)",
+    "accent": 1,
+    "chinese": "下午"
+  },
+  {
+    "lesson": "第三課",
+    "index": 15,
+    "kana": "がたがた",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "哐当哐当"
+  },
+  {
+    "lesson": "第三課",
+    "index": 16,
+    "kana": "ざせき",
+    "kanji": "座(ざ)席(せき)",
+    "accent": 0,
+    "chinese": "座位"
+  },
+  {
+    "lesson": "第三課",
+    "index": 17,
+    "kana": "かじ",
+    "kanji": "家事(かじ)",
+    "accent": 1,
+    "chinese": "家务"
+  },
+  {
+    "lesson": "第三課",
+    "index": 18,
+    "kana": "ちず",
+    "kanji": "地図(ちず)",
+    "accent": 1,
+    "chinese": "地图"
+  },
+  {
+    "lesson": "第三課",
+    "index": 19,
+    "kana": "かぜ",
+    "kanji": "風(かぜ)",
+    "accent": 0,
+    "chinese": "风"
+  },
+  {
+    "lesson": "第三課",
+    "index": 20,
+    "kana": "かぞく",
+    "kanji": "家(か)族(ぞく)",
+    "accent": 1,
+    "chinese": "家属"
+  },
+  {
+    "lesson": "第三課",
+    "index": 21,
+    "kana": "だいがく",
+    "kanji": "大(だい)学(がく)",
+    "accent": 0,
+    "chinese": "大学"
+  },
+  {
+    "lesson": "第三課",
+    "index": 22,
+    "kana": "ちぢむ",
+    "kanji": "縮(ちぢ)む",
+    "accent": 0,
+    "chinese": "缩小"
+  },
+  {
+    "lesson": "第三課",
+    "index": 23,
+    "kana": "つづく",
+    "kanji": "続(つづ)く",
+    "accent": 0,
+    "chinese": "继续"
+  },
+  {
+    "lesson": "第三課",
+    "index": 24,
+    "kana": "でる",
+    "kanji": "出(で)る",
+    "accent": 1,
+    "chinese": "出来"
+  },
+  {
+    "lesson": "第三課",
+    "index": 25,
+    "kana": "どこ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "哪里（场所）"
+  },
+  {
+    "lesson": "第三課",
+    "index": 26,
+    "kana": "そば",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "旁边"
+  },
+  {
+    "lesson": "第三課",
+    "index": 27,
+    "kana": "ビデオ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "录像机"
+  },
+  {
+    "lesson": "第三課",
+    "index": 28,
+    "kana": "あぶら",
+    "kanji": "油(あぶら)",
+    "accent": 0,
+    "chinese": "油"
+  },
+  {
+    "lesson": "第三課",
+    "index": 29,
+    "kana": "たべる",
+    "kanji": "食(た)べる",
+    "accent": 2,
+    "chinese": "吃"
+  },
+  {
+    "lesson": "第三課",
+    "index": 30,
+    "kana": "ぼく",
+    "kanji": "僕(ぼく)",
+    "accent": 1,
+    "chinese": "我（男子自称）"
+  },
+  {
+    "lesson": "第三課",
+    "index": 31,
+    "kana": "パス",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "通过"
+  },
+  {
+    "lesson": "第三課",
+    "index": 32,
+    "kana": "ピアの",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "钢琴"
+  },
+  {
+    "lesson": "第三課",
+    "index": 33,
+    "kana": "プラス",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "加，正"
+  },
+  {
+    "lesson": "第三課",
+    "index": 34,
+    "kana": "オペラ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "歌剧"
+  },
+  {
+    "lesson": "第三課",
+    "index": 35,
+    "kana": "ポスト",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "信箱"
+  },
+  {
+    "lesson": "第三課",
+    "index": 36,
+    "kana": "いってきます",
+    "kanji": "行ってきます",
+    "accent": null,
+    "chinese": "我走了"
+  },
+  {
+    "lesson": "第三課",
+    "index": 37,
+    "kana": "ただいま",
+    "kanji": "",
+    "accent": null,
+    "chinese": "我回来了！"
+  },
+  {
+    "lesson": "第三課",
+    "index": 38,
+    "kana": "すみません",
+    "kanji": "",
+    "accent": null,
+    "chinese": "对不起。"
+  },
+  {
+    "lesson": "第四課",
+    "index": 1,
+    "kana": "ざっし",
+    "kanji": "雑(ざっ)誌(し)",
+    "accent": 0,
+    "chinese": "杂志"
+  },
+  {
+    "lesson": "第四課",
+    "index": 2,
+    "kana": "よっつ",
+    "kanji": "四(よっ)つ",
+    "accent": 3,
+    "chinese": "四个"
+  },
+  {
+    "lesson": "第四課",
+    "index": 3,
+    "kana": "がっこう",
+    "kanji": "学(がっ)校(こう)",
+    "accent": 0,
+    "chinese": "学校"
+  },
+  {
+    "lesson": "第四課",
+    "index": 4,
+    "kana": "ゆっくり",
+    "kanji": "",
+    "accent": 3,
+    "chinese": "慢慢地"
+  },
+  {
+    "lesson": "第四課",
+    "index": 5,
+    "kana": "コップ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "玻璃杯"
+  },
+  {
+    "lesson": "第四課",
+    "index": 6,
+    "kana": "いっぱい",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "满"
+  },
+  {
+    "lesson": "第四課",
+    "index": 7,
+    "kana": "おんな",
+    "kanji": "女(おんな)",
+    "accent": 0,
+    "chinese": "女人，女性"
+  },
+  {
+    "lesson": "第四課",
+    "index": 8,
+    "kana": "かんじ",
+    "kanji": "漢(かん)字(じ)",
+    "accent": 0,
+    "chinese": "汉字"
+  },
+  {
+    "lesson": "第四課",
+    "index": 9,
+    "kana": "てんき",
+    "kanji": "天(てん)気(き)",
+    "accent": 1,
+    "chinese": "天气"
+  },
+  {
+    "lesson": "第四課",
+    "index": 10,
+    "kana": "にほん",
+    "kanji": "日(に)本(ほん)",
+    "accent": 2,
+    "chinese": "日本"
+  },
+  {
+    "lesson": "第四課",
+    "index": 11,
+    "kana": "しんぶん",
+    "kanji": "新(しん)聞(ぶん)",
+    "accent": 0,
+    "chinese": "新闻"
+  },
+  {
+    "lesson": "第四課",
+    "index": 12,
+    "kana": "だんじょ",
+    "kanji": "男(だん)女(じょ)",
+    "accent": 1,
+    "chinese": "男女"
+  },
+  {
+    "lesson": "第四課",
+    "index": 13,
+    "kana": "おかあさん",
+    "kanji": "お母(かあ)さん",
+    "accent": 2,
+    "chinese": "母亲（对外，尊称）"
+  },
+  {
+    "lesson": "第四課",
+    "index": 14,
+    "kana": "まあまあ",
+    "kanji": "",
+    "accent": 3,
+    "chinese": "还行"
+  },
+  {
+    "lesson": "第四課",
+    "index": 15,
+    "kana": "おにいさん",
+    "kanji": "お兄(にい)さん",
+    "accent": 2,
+    "chinese": "哥哥（对外，尊称）"
+  },
+  {
+    "lesson": "第四課",
+    "index": 16,
+    "kana": "ちいさい",
+    "kanji": "小(ちい)さい",
+    "accent": 3,
+    "chinese": "小"
+  },
+  {
+    "lesson": "第四課",
+    "index": 17,
+    "kana": "すうがく",
+    "kanji": "数(すう)学(がく)",
+    "accent": 0,
+    "chinese": "数学"
+  },
+  {
+    "lesson": "第四課",
+    "index": 18,
+    "kana": "ふうぞく",
+    "kanji": "風(ふう)俗(ぞく)",
+    "accent": 1,
+    "chinese": "风俗"
+  },
+  {
+    "lesson": "第四課",
+    "index": 19,
+    "kana": "えいご",
+    "kanji": "英(えい)語(ご)",
+    "accent": 0,
+    "chinese": "英语"
+  },
+  {
+    "lesson": "第四課",
+    "index": 20,
+    "kana": "けいざい",
+    "kanji": "経(けい)済(ざい)",
+    "accent": 1,
+    "chinese": "经济"
+  },
+  {
+    "lesson": "第四課",
+    "index": 21,
+    "kana": "おねえさん",
+    "kanji": "お姉(ねえ)さん",
+    "accent": 2,
+    "chinese": "姐姐（对外，尊称）"
+  },
+  {
+    "lesson": "第四課",
+    "index": 22,
+    "kana": "おとうさん",
+    "kanji": "お父(とう)さん",
+    "accent": 2,
+    "chinese": "父亲（对外，尊称）"
+  },
+  {
+    "lesson": "第四課",
+    "index": 23,
+    "kana": "ほうほう",
+    "kanji": "方(ほう)法(ほう)",
+    "accent": 0,
+    "chinese": "方法"
+  },
+  {
+    "lesson": "第四課",
+    "index": 24,
+    "kana": "おおきい",
+    "kanji": "大(おお)きい",
+    "accent": 0,
+    "chinese": "大的"
+  },
+  {
+    "lesson": "第四課",
+    "index": 25,
+    "kana": "デパート",
+    "kanji": "",
+    "accent": 2,
+    "chinese": "百货商场"
+  },
+  {
+    "lesson": "第四課",
+    "index": 26,
+    "kana": "きゃく",
+    "kanji": "客(きゃく)",
+    "accent": 0,
+    "chinese": "客人"
+  },
+  {
+    "lesson": "第四課",
+    "index": 27,
+    "kana": "じしよ",
+    "kanji": "辞(じ)書(しょ)",
+    "accent": 1,
+    "chinese": "词典"
+  },
+  {
+    "lesson": "第四課",
+    "index": 28,
+    "kana": "おちゃ",
+    "kanji": "お茶(ちゃ)",
+    "accent": 0,
+    "chinese": "茶"
+  },
+  {
+    "lesson": "第四課",
+    "index": 29,
+    "kana": "かいしゃ",
+    "kanji": "会(かい)社(しゃ)",
+    "accent": 0,
+    "chinese": "公司"
+  },
+  {
+    "lesson": "第四課",
+    "index": 30,
+    "kana": "じゅんび",
+    "kanji": "準(じゅん)備(び)",
+    "accent": 1,
+    "chinese": "准备"
+  },
+  {
+    "lesson": "第四課",
+    "index": 31,
+    "kana": "チャンス",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "机会"
+  },
+  {
+    "lesson": "第四課",
+    "index": 32,
+    "kana": "しゅっちょう",
+    "kanji": "出(しゅっ)張(ちょう)",
+    "accent": 0,
+    "chinese": "出差"
+  },
+  {
+    "lesson": "第四課",
+    "index": 33,
+    "kana": "しょっき",
+    "kanji": "食(しょっ)器(き)",
+    "accent": 0,
+    "chinese": "餐具"
+  },
+  {
+    "lesson": "第四課",
+    "index": 34,
+    "kana": "しゅっせき",
+    "kanji": "出(しゅっ)席(せき)",
+    "accent": 0,
+    "chinese": "出席"
+  },
+  {
+    "lesson": "第四課",
+    "index": 35,
+    "kana": "ちょっと",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "一会儿，稍稍"
+  },
+  {
+    "lesson": "第四課",
+    "index": 36,
+    "kana": "きょうしつ",
+    "kanji": "教(きょう)室(しつ)",
+    "accent": 0,
+    "chinese": "教室"
+  },
+  {
+    "lesson": "第四課",
+    "index": 37,
+    "kana": "ちゅうごく",
+    "kanji": "中(ちゅう)国(ごく)",
+    "accent": 1,
+    "chinese": "中国"
+  },
+  {
+    "lesson": "第四課",
+    "index": 38,
+    "kana": "りゅうがく",
+    "kanji": "留(りゅう)学(がく)",
+    "accent": 0,
+    "chinese": "留学"
+  },
+  {
+    "lesson": "第四課",
+    "index": 39,
+    "kana": "きゅうじつ",
+    "kanji": "休(きゅう)日(じつ)",
+    "accent": 0,
+    "chinese": "休日"
+  },
+  {
+    "lesson": "第五課",
+    "index": 1,
+    "kana": "ほんぶん",
+    "kanji": "本(ほん)文(ぶん)",
+    "accent": 1,
+    "chinese": "正文"
+  },
+  {
+    "lesson": "第五課",
+    "index": 2,
+    "kana": "はじめまして",
+    "kanji": "初(はじ)めまして",
+    "accent": 4,
+    "chinese": "初次见面"
+  },
+  {
+    "lesson": "第五課",
+    "index": 3,
+    "kana": "せいかだいがく",
+    "kanji": "清(せい)華(か)大(だい)学(がく)",
+    "accent": 4,
+    "chinese": "清华大学"
+  },
+  {
+    "lesson": "第五課",
+    "index": 4,
+    "kana": "がくせい",
+    "kanji": "学(がく)生(せい)",
+    "accent": 4,
+    "chinese": "学生"
+  },
+  {
+    "lesson": "第五課",
+    "index": 5,
+    "kana": "コンピューター",
+    "kanji": "",
+    "accent": 3,
+    "chinese": "计算机"
+  },
+  {
+    "lesson": "第五課",
+    "index": 6,
+    "kana": "がくぶ",
+    "kanji": "学(がく)部(ぶ)",
+    "accent": 0,
+    "chinese": "系"
+  },
+  {
+    "lesson": "第五課",
+    "index": 7,
+    "kana": "にねんせい",
+    "kanji": "二(に)年(ねん)生(せい)",
+    "accent": 2,
+    "chinese": "二年级学生"
+  },
+  {
+    "lesson": "第五課",
+    "index": 8,
+    "kana": "シャンハイ",
+    "kanji": "上(シャン)海(ハイ)",
+    "accent": 1,
+    "chinese": "上海"
+  },
+  {
+    "lesson": "第五課",
+    "index": 9,
+    "kana": "しゅっしん",
+    "kanji": "出(しゅっ)身(しん)",
+    "accent": 0,
+    "chinese": "出生在，出生地"
+  },
+  {
+    "lesson": "第五課",
+    "index": 10,
+    "kana": "よろしく",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "请多关照"
+  },
+  {
+    "lesson": "第五課",
+    "index": 11,
+    "kana": "ねがう",
+    "kanji": "願(ねが)う",
+    "accent": 2,
+    "chinese": "希望，愿望"
+  },
+  {
+    "lesson": "第五課",
+    "index": 12,
+    "kana": "みなさん",
+    "kanji": "皆(みな)さん",
+    "accent": 2,
+    "chinese": "大家，诸位"
+  },
+  {
+    "lesson": "第五課",
+    "index": 13,
+    "kana": "こんにちは",
+    "kanji": "今日(こんにち)は",
+    "accent": 5,
+    "chinese": "你好"
+  },
+  {
+    "lesson": "第五課",
+    "index": 14,
+    "kana": "しゅふ",
+    "kanji": "主(しゅ)婦(ふ)",
+    "accent": 1,
+    "chinese": "家庭主妇"
+  },
+  {
+    "lesson": "第五課",
+    "index": 15,
+    "kana": "いぜん",
+    "kanji": "以(い)前(ぜん)",
+    "accent": 1,
+    "chinese": "以前"
+  },
+  {
+    "lesson": "第五課",
+    "index": 16,
+    "kana": "かんごふ",
+    "kanji": "看(かん)護(ご)婦(ふ)",
+    "accent": 3,
+    "chinese": "护士"
+  },
+  {
+    "lesson": "第五課",
+    "index": 17,
+    "kana": "なまえ",
+    "kanji": "名(な)前(まえ)",
+    "accent": 0,
+    "chinese": "名字"
+  },
+  {
+    "lesson": "第五課",
+    "index": 18,
+    "kana": "わせだ",
+    "kanji": "早(わ)稲(せ)田(だ)",
+    "accent": 1,
+    "chinese": "早稻田"
+  },
+  {
+    "lesson": "第五課",
+    "index": 19,
+    "kana": "せんこう",
+    "kanji": "専(せん)攻(こう)",
+    "accent": 0,
+    "chinese": "专业"
+  },
+  {
+    "lesson": "第五課",
+    "index": 20,
+    "kana": "ちゅうごくご",
+    "kanji": "中(ちゅう)国(ごく)語(ご)",
+    "accent": 0,
+    "chinese": "中文"
+  },
+  {
+    "lesson": "第五課",
+    "index": 21,
+    "kana": "げんざい",
+    "kanji": "現(げん)在(ざい)",
+    "accent": 1,
+    "chinese": "现在"
+  },
+  {
+    "lesson": "第五課",
+    "index": 22,
+    "kana": "～ちゅう",
+    "kanji": "～中(ちゅう)",
+    "accent": 1,
+    "chinese": "正在…之中"
+  },
+  {
+    "lesson": "第五課",
+    "index": 23,
+    "kana": "どうぞ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "请"
+  },
+  {
+    "lesson": "第五課",
+    "index": 24,
+    "kana": "ちゅうごくじん",
+    "kanji": "中(ちゅう)国(ごく)人(じん)",
+    "accent": 4,
+    "chinese": "中国人"
+  },
+  {
+    "lesson": "第五課",
+    "index": 25,
+    "kana": "にほんじん",
+    "kanji": "日(に)本(ほん)人(じん)",
+    "accent": 4,
+    "chinese": "日本人"
+  },
+  {
+    "lesson": "第五課",
+    "index": 26,
+    "kana": "だいがくいんせい",
+    "kanji": "大(だい)学(がく)院(いん)生(せい)",
+    "accent": 5,
+    "chinese": "研究生"
+  },
+  {
+    "lesson": "第五課",
+    "index": 27,
+    "kana": "しゅみ",
+    "kanji": "趣(しゅ)味(み)",
+    "accent": 1,
+    "chinese": "趣味"
+  },
+  {
+    "lesson": "第五課",
+    "index": 28,
+    "kana": "サッカー",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "足球"
+  },
+  {
+    "lesson": "第五課",
+    "index": 29,
+    "kana": "すみません",
+    "kanji": "",
+    "accent": 4,
+    "chinese": "对不起"
+  },
+  {
+    "lesson": "第五課",
+    "index": 30,
+    "kana": "けんきゅうしつ",
+    "kanji": "研(けん)究(きゅう)室(しつ)",
+    "accent": 3,
+    "chinese": "研究室"
+  },
+  {
+    "lesson": "第五課",
+    "index": 31,
+    "kana": "あそこ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "那里"
+  },
+  {
+    "lesson": "第五課",
+    "index": 32,
+    "kana": "じっけんしつ",
+    "kanji": "実(じっ)験(けん)室(しつ)",
+    "accent": 3,
+    "chinese": "实验室"
+  },
+  {
+    "lesson": "第五課",
+    "index": 33,
+    "kana": "となり",
+    "kanji": "隣(となり)",
+    "accent": 0,
+    "chinese": "旁边"
+  },
+  {
+    "lesson": "第五課",
+    "index": 34,
+    "kana": "どうも",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "太，很"
+  },
+  {
+    "lesson": "第五課",
+    "index": 35,
+    "kana": "ありがとうございます",
+    "kanji": "",
+    "accent": 2,
+    "chinese": "谢谢"
+  },
+  {
+    "lesson": "第五課",
+    "index": 36,
+    "kana": "いいえ",
+    "kanji": "",
+    "accent": 3,
+    "chinese": "不是，不"
+  },
+  {
+    "lesson": "第五課",
+    "index": 37,
+    "kana": "せんせい",
+    "kanji": "先(せん)生(せい)",
+    "accent": 3,
+    "chinese": "老师，先生"
+  },
+  {
+    "lesson": "第五課",
+    "index": 38,
+    "kana": "それ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "那个"
+  },
+  {
+    "lesson": "第五課",
+    "index": 39,
+    "kana": "なん",
+    "kanji": "何(なん)",
+    "accent": 1,
+    "chinese": "什么"
+  },
+  {
+    "lesson": "第五課",
+    "index": 40,
+    "kana": "デジタル",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "数字（式）"
+  },
+  {
+    "lesson": "第五課",
+    "index": 41,
+    "kana": "カメラ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "照相机"
+  },
+  {
+    "lesson": "第六課",
+    "index": 1,
+    "kana": "りゅがくせい",
+    "kanji": "留(りゅう)学(がく)生(せい)",
+    "accent": 3,
+    "chinese": "留学生"
+  },
+  {
+    "lesson": "第六課",
+    "index": 2,
+    "kana": "りょうしん",
+    "kanji": "両(りょう)親(しん)",
+    "accent": 1,
+    "chinese": "双亲"
+  },
+  {
+    "lesson": "第六課",
+    "index": 3,
+    "kana": "あに",
+    "kanji": "兄(あに)",
+    "accent": 1,
+    "chinese": "哥哥"
+  },
+  {
+    "lesson": "第六課",
+    "index": 4,
+    "kana": "あね",
+    "kanji": "姉(あね)",
+    "accent": 0,
+    "chinese": "姐姐"
+  },
+  {
+    "lesson": "第六課",
+    "index": 5,
+    "kana": "なごや",
+    "kanji": "名(な)古(ご)屋(や)",
+    "accent": 1,
+    "chinese": "名古屋"
+  },
+  {
+    "lesson": "第六課",
+    "index": 6,
+    "kana": "いる",
+    "kanji": "居(い)る",
+    "accent": 0,
+    "chinese": "在，有"
+  },
+  {
+    "lesson": "第六課",
+    "index": 7,
+    "kana": "ちち",
+    "kanji": "父(ちち)",
+    "accent": 2,
+    "chinese": "父亲"
+  },
+  {
+    "lesson": "第六課",
+    "index": 8,
+    "kana": "こうむいん",
+    "kanji": "公(こう)務(む)員(いん)",
+    "accent": 3,
+    "chinese": "公务员"
+  },
+  {
+    "lesson": "第六課",
+    "index": 9,
+    "kana": "らいねん",
+    "kanji": "来(らい)年(ねん)",
+    "accent": 0,
+    "chinese": "明年"
+  },
+  {
+    "lesson": "第六課",
+    "index": 10,
+    "kana": "ていねん",
+    "kanji": "定(てい)年(ねん)",
+    "accent": 0,
+    "chinese": "退休年龄"
+  },
+  {
+    "lesson": "第六課",
+    "index": 11,
+    "kana": "はは",
+    "kanji": "母(はは)",
+    "accent": 1,
+    "chinese": "母亲"
+  },
+  {
+    "lesson": "第六課",
+    "index": 12,
+    "kana": "～さい",
+    "kanji": "～歳(さい)",
+    "accent": null,
+    "chinese": "~岁"
+  },
+  {
+    "lesson": "第六課",
+    "index": 13,
+    "kana": "かいしゃいん",
+    "kanji": "会(かい)社(しゃ)員(いん)",
+    "accent": 3,
+    "chinese": "公司职员"
+  },
+  {
+    "lesson": "第六課",
+    "index": 14,
+    "kana": "きたく",
+    "kanji": "帰(き)宅(たく)",
+    "accent": 0,
+    "chinese": "回家"
+  },
+  {
+    "lesson": "第六課",
+    "index": 15,
+    "kana": "いつも",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "总是"
+  },
+  {
+    "lesson": "第六課",
+    "index": 16,
+    "kana": "よる",
+    "kanji": "夜(よる)",
+    "accent": 1,
+    "chinese": "夜晚，晚上"
+  },
+  {
+    "lesson": "第六課",
+    "index": 17,
+    "kana": "～じ",
+    "kanji": "～時(じ)",
+    "accent": null,
+    "chinese": "~点"
+  },
+  {
+    "lesson": "第六課",
+    "index": 18,
+    "kana": "やすみ",
+    "kanji": "休(やす)み",
+    "accent": 3,
+    "chinese": "休息"
+  },
+  {
+    "lesson": "第六課",
+    "index": 19,
+    "kana": "ひ",
+    "kanji": "日(ひ)",
+    "accent": 0,
+    "chinese": "天，日子"
+  },
+  {
+    "lesson": "第六課",
+    "index": 20,
+    "kana": "ほとんど",
+    "kanji": "",
+    "accent": 2,
+    "chinese": "几乎"
+  },
+  {
+    "lesson": "第六課",
+    "index": 21,
+    "kana": "いま",
+    "kanji": "今(いま)",
+    "accent": 1,
+    "chinese": "现在"
+  },
+  {
+    "lesson": "第六課",
+    "index": 22,
+    "kana": "アメリカ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "美国"
+  },
+  {
+    "lesson": "第六課",
+    "index": 23,
+    "kana": "じだい",
+    "kanji": "時(じ)代(だい)",
+    "accent": 0,
+    "chinese": "时代"
+  },
+  {
+    "lesson": "第六課",
+    "index": 24,
+    "kana": "とうきょう",
+    "kanji": "東(とう)京(きょう)",
+    "accent": 0,
+    "chinese": "东京"
+  },
+  {
+    "lesson": "第六課",
+    "index": 25,
+    "kana": "まだ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "还，尚"
+  },
+  {
+    "lesson": "第六課",
+    "index": 26,
+    "kana": "どくしん",
+    "kanji": "独(どく)身(しん)",
+    "accent": 0,
+    "chinese": "单身"
+  },
+  {
+    "lesson": "第六課",
+    "index": 27,
+    "kana": "じっか",
+    "kanji": "実(じっ)家(か)",
+    "accent": 0,
+    "chinese": "娘家，父母家"
+  },
+  {
+    "lesson": "第六課",
+    "index": 28,
+    "kana": "せんだい",
+    "kanji": "仙(せん)台(だい)",
+    "accent": 1,
+    "chinese": "仙台"
+  },
+  {
+    "lesson": "第六課",
+    "index": 29,
+    "kana": "そふぼ",
+    "kanji": "祖(そ)父(ふ)母(ぼ)",
+    "accent": 2,
+    "chinese": "祖父母，爷爷奶奶"
+  },
+  {
+    "lesson": "第六課",
+    "index": 30,
+    "kana": "～ひき",
+    "kanji": "～匹(ひき)",
+    "accent": null,
+    "chinese": "匹，只，条"
+  },
+  {
+    "lesson": "第六課",
+    "index": 31,
+    "kana": "ご～",
+    "kanji": "御(ご)～",
+    "accent": null,
+    "chinese": "表示尊敬"
+  },
+  {
+    "lesson": "第六課",
+    "index": 32,
+    "kana": "きょうだい",
+    "kanji": "兄(きょう)弟(だい)",
+    "accent": 1,
+    "chinese": "兄弟"
+  },
+  {
+    "lesson": "第六課",
+    "index": 33,
+    "kana": "ひとりっこ",
+    "kanji": "一人(ひとり)っ子(こ)",
+    "accent": 3,
+    "chinese": "独生子"
+  },
+  {
+    "lesson": "第六課",
+    "index": 34,
+    "kana": "いもうと",
+    "kanji": "妹(いもうと)",
+    "accent": 4,
+    "chinese": "妹"
+  },
+  {
+    "lesson": "第六課",
+    "index": 35,
+    "kana": "おとうと",
+    "kanji": "弟(おとうと)",
+    "accent": 4,
+    "chinese": "弟"
+  },
+  {
+    "lesson": "第六課",
+    "index": 36,
+    "kana": "ああ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "啊，呀"
+  },
+  {
+    "lesson": "第六課",
+    "index": 37,
+    "kana": "だいがくせい",
+    "kanji": "大(だい)学(がく)生(せい)",
+    "accent": 3,
+    "chinese": "大学生"
+  },
+  {
+    "lesson": "第六課",
+    "index": 38,
+    "kana": "こうこうせい",
+    "kanji": "高(こう)校(こう)生(せい)",
+    "accent": 3,
+    "chinese": "高中生"
+  },
+  {
+    "lesson": "第六課",
+    "index": 39,
+    "kana": "ちゅうがくせい",
+    "kanji": "中(ちゅう)学(がく)生(せい)",
+    "accent": 3,
+    "chinese": "初中生"
+  },
+  {
+    "lesson": "第六課",
+    "index": 40,
+    "kana": "ところで",
+    "kanji": "",
+    "accent": 3,
+    "chinese": "可是，我说"
+  },
+  {
+    "lesson": "第六課",
+    "index": 41,
+    "kana": "この",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "这，这个"
+  },
+  {
+    "lesson": "第六課",
+    "index": 42,
+    "kana": "ちかく",
+    "kanji": "近(ちか)く",
+    "accent": 2,
+    "chinese": "附近"
+  },
+  {
+    "lesson": "第六課",
+    "index": 43,
+    "kana": "ゆうびんきょく",
+    "kanji": "郵(ゆう)便(びん)局(きょく)",
+    "accent": 3,
+    "chinese": "邮局"
+  },
+  {
+    "lesson": "第六課",
+    "index": 44,
+    "kana": "ぎんこう",
+    "kanji": "銀(ぎん)行(こう)",
+    "accent": 0,
+    "chinese": "银行"
+  },
+  {
+    "lesson": "第六課",
+    "index": 45,
+    "kana": "ええ",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "哎，好的"
+  },
+  {
+    "lesson": "第六課",
+    "index": 46,
+    "kana": "えいがかん",
+    "kanji": "映(えい)画(が)館(かん)",
+    "accent": 3,
+    "chinese": "电影院"
+  },
+  {
+    "lesson": "第七課",
+    "index": 1,
+    "kana": "しき",
+    "kanji": "四(し)季(き)",
+    "accent": 2,
+    "chinese": "四季"
+  },
+  {
+    "lesson": "第七課",
+    "index": 2,
+    "kana": "それぞれ",
+    "kanji": "",
+    "accent": 2,
+    "chinese": "分别"
+  },
+  {
+    "lesson": "第七課",
+    "index": 3,
+    "kana": "みりょく",
+    "kanji": "魅(み)力(りょく)",
+    "accent": 0,
+    "chinese": "魅力"
+  },
+  {
+    "lesson": "第七課",
+    "index": 4,
+    "kana": "はなみ",
+    "kanji": "花(はな)見(み)",
+    "accent": 3,
+    "chinese": "赏樱花"
+  },
+  {
+    "lesson": "第七課",
+    "index": 5,
+    "kana": "きせつ",
+    "kanji": "季(き)節(せつ)",
+    "accent": 2,
+    "chinese": "季节"
+  },
+  {
+    "lesson": "第七課",
+    "index": 6,
+    "kana": "はじめ",
+    "kanji": "初(はじ)め",
+    "accent": 0,
+    "chinese": "最初"
+  },
+  {
+    "lesson": "第七課",
+    "index": 7,
+    "kana": "さくら",
+    "kanji": "桜(さくら)",
+    "accent": 0,
+    "chinese": "樱花"
+  },
+  {
+    "lesson": "第七課",
+    "index": 8,
+    "kana": "さく",
+    "kanji": "咲(さ)く",
+    "accent": 0,
+    "chinese": "开（花）"
+  },
+  {
+    "lesson": "第七課",
+    "index": 9,
+    "kana": "なつ",
+    "kanji": "夏(なつ)",
+    "accent": 2,
+    "chinese": "夏天"
+  },
+  {
+    "lesson": "第七課",
+    "index": 10,
+    "kana": "うみ",
+    "kanji": "海(うみ)",
+    "accent": 1,
+    "chinese": "海"
+  },
+  {
+    "lesson": "第七課",
+    "index": 11,
+    "kana": "うつくしい",
+    "kanji": "美(うつく)しい",
+    "accent": 4,
+    "chinese": "美丽"
+  },
+  {
+    "lesson": "第七課",
+    "index": 12,
+    "kana": "かいがん",
+    "kanji": "海(かい)岸(がん)",
+    "accent": 0,
+    "chinese": "海岸"
+  },
+  {
+    "lesson": "第七課",
+    "index": 13,
+    "kana": "たくさん",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "很多"
+  },
+  {
+    "lesson": "第七課",
+    "index": 14,
+    "kana": "その",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "那，那个"
+  },
+  {
+    "lesson": "第七課",
+    "index": 15,
+    "kana": "なか",
+    "kanji": "中(なか)",
+    "accent": 1,
+    "chinese": "中"
+  },
+  {
+    "lesson": "第七課",
+    "index": 16,
+    "kana": "おきなわ",
+    "kanji": "沖(おき)縄(なわ)",
+    "accent": 0,
+    "chinese": "冲绳"
+  },
+  {
+    "lesson": "第七課",
+    "index": 17,
+    "kana": "また",
+    "kanji": "又(また)",
+    "accent": 0,
+    "chinese": "又，再"
+  },
+  {
+    "lesson": "第七課",
+    "index": 18,
+    "kana": "ペキン",
+    "kanji": "北(ぺ)京(きん)",
+    "accent": 1,
+    "chinese": "北京"
+  },
+  {
+    "lesson": "第七課",
+    "index": 19,
+    "kana": "むしあつい",
+    "kanji": "蒸(む)し暑(あつ)い",
+    "accent": 4,
+    "chinese": "闷热"
+  },
+  {
+    "lesson": "第七課",
+    "index": 20,
+    "kana": "あき",
+    "kanji": "秋(あき)",
+    "accent": 1,
+    "chinese": "秋天"
+  },
+  {
+    "lesson": "第七課",
+    "index": 21,
+    "kana": "こうよう",
+    "kanji": "紅葉(こうよう)",
+    "accent": 0,
+    "chinese": "红叶"
+  },
+  {
+    "lesson": "第七課",
+    "index": 22,
+    "kana": "～がつ",
+    "kanji": "～月(がつ)",
+    "accent": null,
+    "chinese": "~月"
+  },
+  {
+    "lesson": "第七課",
+    "index": 23,
+    "kana": "あつい",
+    "kanji": "暑(あつ)い",
+    "accent": 2,
+    "chinese": "热"
+  },
+  {
+    "lesson": "第七課",
+    "index": 24,
+    "kana": "さむい",
+    "kanji": "寒(さむ)い",
+    "accent": 2,
+    "chinese": "冷"
+  },
+  {
+    "lesson": "第七課",
+    "index": 25,
+    "kana": "スポーツ",
+    "kanji": "",
+    "accent": 2,
+    "chinese": "体育运动"
+  },
+  {
+    "lesson": "第七課",
+    "index": 26,
+    "kana": "いい",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "好"
+  },
+  {
+    "lesson": "第七課",
+    "index": 27,
+    "kana": "ふゆ",
+    "kanji": "冬(ふゆ)",
+    "accent": 2,
+    "chinese": "冬天"
+  },
+  {
+    "lesson": "第七課",
+    "index": 28,
+    "kana": "ゆき",
+    "kanji": "雪(ゆき)",
+    "accent": 2,
+    "chinese": "雪"
+  },
+  {
+    "lesson": "第七課",
+    "index": 29,
+    "kana": "おおい",
+    "kanji": "多(おお)い",
+    "accent": 1,
+    "chinese": "多"
+  },
+  {
+    "lesson": "第七課",
+    "index": 30,
+    "kana": "スキー",
+    "kanji": "",
+    "accent": 2,
+    "chinese": "滑雪"
+  },
+  {
+    "lesson": "第七課",
+    "index": 31,
+    "kana": "できる",
+    "kanji": "出(で)来(き)る",
+    "accent": 2,
+    "chinese": "能够"
+  },
+  {
+    "lesson": "第七課",
+    "index": 32,
+    "kana": "わかい",
+    "kanji": "若(わか)い",
+    "accent": 2,
+    "chinese": "年轻的"
+  },
+  {
+    "lesson": "第七課",
+    "index": 33,
+    "kana": "にんき",
+    "kanji": "人(にん)気(き)",
+    "accent": 0,
+    "chinese": "人缘，声望"
+  },
+  {
+    "lesson": "第七課",
+    "index": 34,
+    "kana": "おはようございます",
+    "kanji": "",
+    "accent": 8,
+    "chinese": "早上好"
+  },
+  {
+    "lesson": "第七課",
+    "index": 35,
+    "kana": "お～",
+    "kanji": "",
+    "accent": null,
+    "chinese": "表示尊敬"
+  },
+  {
+    "lesson": "第七課",
+    "index": 36,
+    "kana": "おでかけですか",
+    "kanji": "お出(で)掛(か)けですか",
+    "accent": 5,
+    "chinese": "您出门啊？"
+  },
+  {
+    "lesson": "第七課",
+    "index": 37,
+    "kana": "しごと",
+    "kanji": "仕(し)事(ごと)",
+    "accent": 0,
+    "chinese": "工作"
+  },
+  {
+    "lesson": "第七課",
+    "index": 38,
+    "kana": "しかた",
+    "kanji": "仕(し)方(かた)",
+    "accent": 0,
+    "chinese": "方法"
+  },
+  {
+    "lesson": "第七課",
+    "index": 39,
+    "kana": "ない",
+    "kanji": "無(な)い",
+    "accent": 1,
+    "chinese": "没有"
+  },
+  {
+    "lesson": "第七課",
+    "index": 40,
+    "kana": "おそい",
+    "kanji": "遅(おそ)い",
+    "accent": 0,
+    "chinese": "慢，晚"
+  },
+  {
+    "lesson": "第七課",
+    "index": 41,
+    "kana": "オーエル",
+    "kanji": "O(オー)L(エル)",
+    "accent": 0,
+    "chinese": "白领丽人"
+  },
+  {
+    "lesson": "第七課",
+    "index": 42,
+    "kana": "サラリーマン",
+    "kanji": "",
+    "accent": 3,
+    "chinese": "工薪阶层"
+  },
+  {
+    "lesson": "第七課",
+    "index": 43,
+    "kana": "ずっと",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "~得多"
+  },
+  {
+    "lesson": "第七課",
+    "index": 44,
+    "kana": "いそがしい",
+    "kanji": "忙(いそが)しい",
+    "accent": 4,
+    "chinese": "忙"
+  },
+  {
+    "lesson": "第七課",
+    "index": 45,
+    "kana": "そう",
+    "kanji": "",
+    "accent": 0,
+    "chinese": "那样"
+  },
+  {
+    "lesson": "第七課",
+    "index": 46,
+    "kana": "じゃあ",
+    "kanji": "",
+    "accent": 1,
+    "chinese": "那么"
+  },
+  {
+    "lesson": "第七課",
+    "index": 47,
+    "kana": "いってまいります",
+    "kanji": "行(い)って参(まい)ります",
+    "accent": 7,
+    "chinese": "我走了"
+  }
+]
